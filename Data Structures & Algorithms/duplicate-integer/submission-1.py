@@ -1,5 +1,5 @@
 class Solution:
-    # Runtime optimized O(1)
+    # One-liner
     # def hasDuplicate(self, nums: List[int]) -> bool:
     #     return len(set(nums)) != len(nums)
     
